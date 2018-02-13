@@ -4,11 +4,11 @@
   "description": "Advanced workflows for building rock-solid Ionic apps: develop, prototype, test, build and deliver high quality apps with Yeoman, Gulp, Bower, Angular, Cordova and of course Ionic. All in one sexy generator.",
   "license": "MIT",
   "main": "app/index.js",
-  "repository": "mwaylabs/generator-m-ionic",
+  "repository": "dmzone/generator-m-ionic",
   "author": {
-    "name": "Jonathan Grupp",
-    "email": "j.grupp@mwaysolutions.com",
-    "url": "https://github.com/gruppjo"
+    "name": "DM",
+    "email": "*",
+    "url": "*"
   },
   "engines": {
     "node": ">=4.0.0",
